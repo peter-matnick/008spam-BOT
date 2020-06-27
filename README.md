@@ -1,4 +1,4 @@
-<h1>peter-spam_BOT </h1>
+<h5>~PETER MATNICK~</h5>
 
 
 <h2>Usage</h2>
